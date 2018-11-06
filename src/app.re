@@ -11,7 +11,7 @@ let make = (~message, _children) => {
       <div className="title">
         (ReasonReact.string("Pokedex"))
       </div>
-      <PokemonList />
+      <Home />
     </div>,
 
 };
